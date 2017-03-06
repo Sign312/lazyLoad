@@ -1,6 +1,6 @@
 {
   "name": "lazyload-io",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "懒加载组件，图片懒加载",
   "main": "index.js",
   "scripts": {
