@@ -24,6 +24,10 @@
 
 # Usage(用法)
 
+```
+    npm install lazyload-io
+```
+
 引入
 ```
     import lazyLoad from "lazyload-io";
